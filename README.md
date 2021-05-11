@@ -2,10 +2,9 @@
 Build using react, react-redux
 
 # Installation & Start
-========================
-npm install
-npm start
-========================
+
+$ npm install
+$ npm start
 
 
 
