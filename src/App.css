@@ -1,0 +1,129 @@
+.loginDiv {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.loginUsers {
+  background: #67c5c7;
+  width: 200px;
+  height: 75px;
+  margin: 10px;
+}
+
+.NavWrapper {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding: 20px;
+  background: #2f7d80;
+  justify-content: space-between;
+}
+
+.NavUserDetails {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+}
+
+.NavUserDetails img {
+  padding: 10px;
+}
+
+.LogOutBtn {
+  background: #ffb199;
+  padding: 10px 30px;
+  margin: 0 10px;
+  border: none;
+  text-decoration: none;
+  color: black;
+}
+
+.MainMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.menuItem {
+  text-decoration: none;
+  padding: 10px 20px;
+  color: black;
+  margin: 10px;
+  background: #c8e1e2;
+}
+
+.toggleWrapper {
+  background: cadetblue;
+}
+
+.toggleBttn {
+  padding: 10px 20px;
+  margin: 20px 30px;
+  background: #dfe6e6;
+  border: none;
+}
+
+.QuestionsWrapper {
+  padding: 30px;
+}
+
+.QuestionsWrapper h1 {
+  background-color: #67c5c7;
+  padding: 20px;
+}
+
+.UserCardWrapper {
+  padding: 10px;
+  background: gainsboro;
+  margin: 20px 0;
+}
+
+p.questionAuthor {
+  background: #67c5c7;
+  padding: 10px;
+}
+
+.options {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.optionBtn {
+  padding: 20px;
+  margin: 10px;
+  background: aliceblue;
+  border: none;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper input {
+  padding: 20px;
+  margin: 10px;
+}
+
+.idniWrapper {
+    padding: 20px;
+    margin: 10px;
+    background: #85cfd2;
+}
