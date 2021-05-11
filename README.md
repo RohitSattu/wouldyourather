@@ -1,10 +1,13 @@
 # Would you rather game
 Build using react, react-redux
 
-# Installation & Start
+# Installation
 
-$ npm install
-$ npm start
+npm install
+
+# Start
+
+npm start
 
 
 
