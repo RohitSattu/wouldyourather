@@ -1,10 +1,14 @@
+# Would you rather game
+Build using react, react-redux
+
 # Installation & Start
+========================
 npm install
 npm start
 ========================
 
 
-# Would you rather game
+
 
 
 ## Actions
